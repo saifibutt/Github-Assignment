@@ -1,0 +1,43 @@
+.td1 {
+    background-color: rgba(19, 19, 19, 0.87);
+    color: rgb(255, 255, 255);
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: rgba(180, 175, 175, 0.801);
+}
+
+#p2 {
+    color: rgba(104, 211, 179, 0.76);
+}
+
+#tablecolour {
+    background-color: rgb(22, 22, 22);
+}
+
+.fa-desktop {
+    color: rgba(78, 189, 152, 0.842);
+}
+.fa-database {
+    color: rgba(78, 189, 137, 0.781);
+}
+.fa-shield-alt {
+    color: rgb(78, 189, 133);
+}
+.fa-rocket {
+    color: rgb(78, 189, 137);
+}h1{
+    color: rgba(241, 241, 235, 0.788);
+}
+h2{
+    color: rgba(241, 241, 235, 0.774);
+}
+h3{
+    color: rgba(241, 241, 235, 0.815);
+}
+h4{
+    color: rgba(241, 241, 235, 0.774);
+}
+
